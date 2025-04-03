@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.10",
+  "name": "WordPuzzle",
+  "id": "c40b88b3-8cfc-4e7a-bf85-e440ab29d036",
+  "isNew": false
+}
